@@ -1,0 +1,22 @@
+{
+  "name": "node-str",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./bin/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.6.8",
+    "express": "^4.15.3",
+    "http": "0.0.0",
+    "mongoose": "^5.11.11"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7"
+  }
+}
